@@ -1,0 +1,14 @@
+{
+    "gallery": [
+        { "title": "Cheesy Pizza Poster", "img": "images/gallery/pizza-poster.jpg", "category": "Food Posters" },
+        { "title": "Hot & Delicious Burger", "img": "images/gallery/burger-green.jpg", "category": "Food Posters" },
+        { "title": "Super Delicious Burger", "img": "images/gallery/burger-red.jpg", "category": "Food Posters" },
+        { "title": "Blueberry Lemonade", "img": "images/gallery/blueberry-drink.jpg", "category": "Drink Posters" },
+        { "title": "Sprite Refresh Ad", "img": "images/gallery/sprite-ad.jpg", "category": "Drink Posters" }
+    ],
+    "logos": [
+        { "title": "Wings Logo", "img": "images/logos/logo-wings.jpg" },
+        { "title": "Blue A Logo", "img": "images/logos/logo-blue-a.jpg" },
+        { "title": "School Logo", "img": "images/logos/logo-school.jpg" }
+    ]
+}
